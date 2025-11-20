@@ -401,7 +401,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-apple-stock-valuation-analysis",
+          title: 'Apple Stock Valuation Analysis',
+          description: "Example of Value Investment Analysis, Metrics, and Reasoning",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_apple_valuation/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
