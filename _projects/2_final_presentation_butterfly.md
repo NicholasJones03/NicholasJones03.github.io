@@ -6,8 +6,6 @@ img:
 importance: 1
 category: Examples
 ---
-
-
 Final presentation slides covering correlation-based trading and the impact of funding inefficiencies on biotech innovation.
 
 [View Presentation PDF]({{ site.baseurl }}/assets/Final%20Presentation.pdf)
