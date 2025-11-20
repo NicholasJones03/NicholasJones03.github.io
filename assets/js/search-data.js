@@ -23,8 +23,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-git-hib-repositories",
-          title: "Git-Hib Repositories",
+        },{id: "nav-repositories",
+          title: "repositories",
           description: "I should be adding to my Github through time. Mainly targeting future MSDS work that I will likely be conducting for the foreseeable future.",
           section: "Navigation",
           handler: () => {
