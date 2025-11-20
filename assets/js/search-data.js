@@ -411,6 +411,11 @@ ninja.data = [{
           description: "The final draft of the Research Seminar in Economics and Finance presentation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_final_presentation_butterfly/";
+            },},{id: "projects-data-science-modeling-in-biotech",
+          title: 'Data Science Modeling in Biotech',
+          description: "Example of the prevalence of Data Science Modeling in Biotech and Biotech Financial Modeling Example",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_data_science_biotech/";
             },},{
         id: 'social-email',
         title: 'email',
