@@ -16,7 +16,7 @@ profile:
 
 ---
 
-Biotech Analyst| Portfolio Manager | Data Scientist | Public Equity Evaluator
+Biotech Analyst| Portfolio Manager | Data Scientist | Public Equity Analyst
 
 ______________________________________________________________________________________
 
@@ -36,7 +36,7 @@ Academic/Program Inquiries: nickjones@smu.edu,
 
 GitHub: github.com/nickjones03, 
 
-Linkeding: https://www.linkedin.com/in/nicholas-jones-329a5136a/
+Linkedin: https://www.linkedin.com/in/nicholas-jones-329a5136a/
 
 ______________________________________________________________________________________
 
