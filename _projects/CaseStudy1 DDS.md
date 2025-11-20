@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: "CaseStudy1 DDS
+description: "Case Study 1: Employee Attrition Analysis MSDS 6306: Doing Data Science""
+importance: 1
+category: School
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.
@@ -15,9 +15,8 @@ To give your project a background in the portfolio page, just add the img tag to
 
     ---
     layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
+    title: CaseStudy1 DDS
+    description: Case Study 1: Employee Attrition Analysis MSDS 6306: Doing Data Science
     ---
 
 <div class="row">
@@ -43,8 +42,8 @@ To give your project a background in the portfolio page, just add the img tag to
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
+You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
+Say you wanted to write a bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
 <div class="row justify-content-sm-center">
