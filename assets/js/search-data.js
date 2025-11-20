@@ -431,6 +431,11 @@ ninja.data = [{
           description: "Example of competitive landscape in biotech of new MOA",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_pdl1_vegf_landscape/";
+            },},{id: "projects-moa-mapping-peripheral-viability-analysis",
+          title: 'MOA Mapping - Peripheral Viability Analysis',
+          description: "Example of mapping MOA that claimed periphery administration and activation yet was peripherally viable",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/7_nvo_crbp_moa_analysis/";
             },},{
         id: 'social-email',
         title: 'email',
