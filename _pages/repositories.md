@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
+title: Git-Hib Repositories
 description: I should be adding to my Github through time. Mainly targeting future MSDS work that I will likely be conducting for the foreseeable future.
 nav: true
 nav_order: 4
