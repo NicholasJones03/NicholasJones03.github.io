@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-my-virtual-book-shelf",
-          title: "My Virtual Book Shelf",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/books/";
-          },
-        },{id: "nav-analysis-examples",
+  },{id: "nav-analysis-examples",
           title: "Analysis Examples",
           description: "Analysis Examples and Models",
           section: "Navigation",
