@@ -406,6 +406,11 @@ ninja.data = [{
           description: "Example of Value Investment Analysis, Metrics, and Reasoning",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_apple_valuation/";
+            },},{id: "projects-the-butterfly-effect-of-biotech",
+          title: 'The Butterfly Effect of Biotech',
+          description: "Example of correlation-based trading and statistically backed thesis on innovation hurt by inefficiencies in lack of funding in biotech",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_research_seminar_butterfly/";
             },},{id: "projects-apple-erp-analysis",
           title: 'Apple ERP Analysis',
           description: "Qualitative analysis and reasoning behind Valuation",
