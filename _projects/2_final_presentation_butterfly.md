@@ -3,8 +3,8 @@ layout: page
 title: Butterfly Effect of Biotech - Final Presentation
 description: The final draft of the Research Seminar in Economics and Finance presentation
 img: 
-importance: 2
-category: work
+importance: 1
+category: Examples
 ---
 
 
