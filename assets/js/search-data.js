@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-analysis-examples",
           title: "Analysis Examples",
-          description: "Analysis Examples and Models",
+          description: "Models and Analysis",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
