@@ -426,6 +426,11 @@ ninja.data = [{
           description: "NPV Model and DCF Financial Analysis",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_google_financial_valuation/";
+            },},{id: "projects-pdl1-and-m-vegf-competitive-analysis",
+          title: 'PDL1 and M-Vegf Competitive Analysis',
+          description: "Example of competitive landscape in biotech of new MOA",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_pdl1_vegf_landscape/";
             },},{
         id: 'social-email',
         title: 'email',
