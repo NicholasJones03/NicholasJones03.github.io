@@ -406,6 +406,11 @@ ninja.data = [{
           description: "Example of Value Investment Analysis, Metrics, and Reasoning",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_apple_valuation/";
+            },},{id: "projects-apple-erp-analysis",
+          title: 'Apple ERP Analysis',
+          description: "Qualitative analysis and reasoning behind Valuation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_apple_erp/";
             },},{
         id: 'social-email',
         title: 'email',
