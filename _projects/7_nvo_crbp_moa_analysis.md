@@ -9,10 +9,12 @@ category: Examples
 ---
 
 
-Analysis demonstrating mechanism of action mapping for therapeutics claiming peripherally acting drug that turned out to be both peripherally and centrally acting.
+Analysis demonstrating mechanism of action mapping for therapeutics claiming peripherally acting drug that turned out to be both peripherally and centrally acting leaving the drug susceptible to serious AE's.
 
-### NVO Monlunabant Analysis
-[View NVO Analysis PDF]({{ site.baseurl }}/assets/NVO%20MONLUNABANT.pdf)
 
-### CRBP Investment Analysis
-[View CRBP Analysis PDF]({{ site.baseurl }}/assets/CRBP_INV_202.pdf)
+### Download Files
+
+<a href="{{ site.baseurl }}/assets/NVO%20MONLUNABANT.xlsx" download>Download NVO MONLUNABANT Excel Analysis</a>
+
+<a href="{{ site.baseurl }}/assets/CRBP.xlsx" download>Download CRBP Excel Analysis</a>
+
