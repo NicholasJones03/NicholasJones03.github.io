@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /books/
-title: My Virtual Book Shelf
+title: Notable Books
 description: 
 nav: true
 nav_order: 6
