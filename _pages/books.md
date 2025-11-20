@@ -1,13 +1,29 @@
 ---
 layout: book-shelf
-title: bookshelf
+title: My Virtual Book Shelf
 permalink: /books/
-nav: false
+nav: true
 collection: books
 ---
-
-> What an astonishing thing a book is. It's a flat object made from a tree with flexible parts on which are imprinted lots of funny dark squiggles. But one glance at it and you're inside the mind of another person, maybe somebody dead for thousands of years. Across the millennia, an author is speaking clearly and silently inside your head, directly to you. Writing is perhaps the greatest of human inventions, binding together people who never knew each other, citizens of distant epochs. Books break the shackles of time. A book is proof that humans are capable of working magic.
+> The Intelligent Investor - Benjamin Graham
+> The Snowball: Warren Buffett and the Business of Life - Alice Schroeder
+> Common Stocks and Uncommon Profits - Philip A. Fisher
+> Honorable Mention: Reminiscences of a Stock Operator - Edwin Lefevre
+> The Art of War - Tsun Tzu
+> Tribe of Mentors - Tim Ferriss
+> Random Walk Down Wall Street - Burton G. Malkiel
+> An Introduction to Information Theory - John R. Pierce
+> Market Wizards - Jack D. Schwager
+> Doing Data Science - Cathy O'Neil
+> Reproducible Research with R and RStudio by Chistopher Gandrud
+> The Black Swan - Nassim Nicholas Taleb
+> Foold by Randomness - Nassim Nicholas Taleb
 >
-> -- Carl Sagan, Cosmos, Part 11: The Persistence of Memory (1980)
-
-## Books that I am reading, have read, or will read
+> Short-form:
+> DOS for Dummies
+> Artificial Intelligence for Dummies
+> Data Science for Dummies
+> Statistics for Dummies
+> Many Pub-Med, NEJ, STAT, NIH, and academic articles
+> 
+> 
