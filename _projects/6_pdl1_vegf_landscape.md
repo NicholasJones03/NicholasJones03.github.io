@@ -3,7 +3,7 @@ layout: page
 title: PDL1 and M-Vegf Competitive Analysis
 description: Example of competitive landscape in biotech of new MOA
 img: 
-importance: false
+importance: 6
 
 category: Examples
 ---
