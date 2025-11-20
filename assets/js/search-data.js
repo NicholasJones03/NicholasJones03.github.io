@@ -431,7 +431,7 @@ ninja.data = [{
               window.location.href = "/projects/7_nvo_crbp_moa_analysis/";
             },},{id: "projects-capr-clinical-trial-extension-analysis",
           title: 'CAPR Clinical Trial Extension Analysis',
-          description: "Example of how a company can extend clinical trialing to maintain current valuation",
+          description: "Example of unique clinical timeline",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_capr_trial_extension/";
             },},{
