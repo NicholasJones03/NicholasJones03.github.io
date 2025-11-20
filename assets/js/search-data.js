@@ -421,6 +421,11 @@ ninja.data = [{
           description: "Undergrad Capstone Thesis on Innovation and Market Inefficiency",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_butterfly_biotech/";
+            },},{id: "projects-employee-attrition-analysis",
+          title: 'Employee Attrition Analysis',
+          description: "Using Data Science Modeling - SMU Case Study",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_casestudy_dds/";
             },},{
         id: 'social-email',
         title: 'email',
