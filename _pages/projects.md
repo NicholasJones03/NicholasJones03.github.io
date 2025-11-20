@@ -5,7 +5,7 @@ permalink: /projects/
 description: Models and Analysis
 nav: true
 nav_order: 1
-display_categories: Analysis Examples
+display_categories: Examples
 horizontal: false
 ---
 
