@@ -1,5 +1,1 @@
----
 
----
-
-{% include news.liquid %}
