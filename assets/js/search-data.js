@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-analysis-examples-and-models",
+  },{id: "nav-my-virtual-book-shelf",
+          title: "My Virtual Book Shelf",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/books/";
+          },
+        },{id: "nav-analysis-examples-and-models",
           title: "Analysis Examples and Models",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
@@ -23,8 +30,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
+        },{id: "nav-git-hib-repositories",
+          title: "Git-Hib Repositories",
           description: "I should be adding to my Github through time. Mainly targeting future MSDS work that I will likely be conducting for the foreseeable future.",
           section: "Navigation",
           handler: () => {
