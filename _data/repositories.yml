@@ -1,14 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
-
-repo_description_lines_max: 2
+  - NicholasJones03
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - NicholasJones03/NicholasJones03.github.io
+  - NicholasJones03/RShiny-Attrition-App
+  - NicholasJones03/CaseStudy1DDS
+  - NicholasJones03/SMU-DATA-SCIENCE-ESSENTIALS
+  - NicholasJones03/DS_Course0_Week1_Module3_StatMeasLab
