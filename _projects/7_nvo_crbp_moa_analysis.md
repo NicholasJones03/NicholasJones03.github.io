@@ -3,11 +3,10 @@ layout: page
 title: MOA Mapping - Peripheral Viability Analysis
 description: Example of mapping MOA that claimed periphery administration and activation yet was peripherally viable
 img: 
-importance: 7
-category: work
+importance: 5
+category: Examples
 ---
 
-**Associated with 9812 Holdings**
 
 Analysis demonstrating mechanism of action mapping for therapeutics claiming peripheral administration while maintaining peripheral viability.
 
