@@ -2,7 +2,8 @@
 layout: book-shelf
 title: My Virtual Book Shelf
 permalink: /books/
-nav: true
+nav: false
+
 collection: books
 order: 6
 ---
