@@ -411,6 +411,11 @@ ninja.data = [{
           description: "Qualitative analysis and reasoning behind Valuation",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_apple_erp/";
+            },},{id: "projects-google-dcf-valuation-q1-2025",
+          title: 'Google DCF Valuation Q1 2025',
+          description: "Example of Value Investment Analysis, Metrics, and Reasoning",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_google_dcf/";
             },},{
         id: 'social-email',
         title: 'email',
