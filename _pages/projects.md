@@ -2,7 +2,7 @@
 layout: page
 title: Analysis Examples
 permalink: /projects/
-description: Analysis Examples and Models
+description: Models and Analysis
 nav: true
 nav_order: 1
 display_categories: Analysis Examples
@@ -10,7 +10,7 @@ horizontal: false
 ---
 
 <!-- pages/projects.md -->
-<div class="Analysis Examples">
+<div class="Examples">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {% for category in page.display_categories %}
@@ -47,7 +47,7 @@ horizontal: false
 
 {% if page.horizontal %}
 
-  <div class="Analysis Examples">
+  <div class="Examples">
     <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
       {% include projects_horizontal.liquid %}
