@@ -1,14 +1,14 @@
 ---
 layout: page
 title: MOA Mapping - Peripheral Viability Analysis
-description: Example of mapping MOA that claimed periphery administration and activation yet was peripherally viable
+description: Example of MOA analysis
 img: 
 importance: 5
 category: Examples
 ---
 
 
-Analysis demonstrating mechanism of action mapping for therapeutics claiming peripheral administration while maintaining peripheral viability.
+Analysis demonstrating mechanism of action mapping for therapeutics claiming peripherally acting drug that turned out to be both peripherally and centrally acting.
 
 ### NVO Monlunabant Analysis
 [View NVO Analysis PDF]({{ site.baseurl }}/assets/NVO%20MONLUNABANT.pdf)
