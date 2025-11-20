@@ -4,6 +4,7 @@ title: My Virtual Book Shelf
 permalink: /books/
 nav: true
 collection: books
+order: 6
 ---
 > The Intelligent Investor - Benjamin Graham
 >
