@@ -8,6 +8,9 @@ importance: 6
 category: Examples
 ---
 
-Analysis of the competitive landscape for novel mechanisms of action in immunotherapy and angiogenesis inhibition.
+Example of analysis of the competitive landscape for a then novel moa
 
-[View Analysis PDF]({{ site.baseurl }}/assets/pdl1%5EMVegf.pdf)
+### Download Files
+
+<a href="{{ site.baseurl }}/assets/pdl1+Vegf.xlsx" download>Download PD-L1 + VEGF Excel Analysis</a>
+
