@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. SMU MSDS
+subtitle: <a href='#'>Affiliations</a>. 
 
 profile:
   align: right
