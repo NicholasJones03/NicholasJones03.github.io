@@ -401,12 +401,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-apple-stock-valuation-analysis",
-          title: 'Apple Stock Valuation Analysis',
-          description: "Example of Value Investment Analysis, Metrics, and Reasoning",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_apple_valuation/";
-            },},{id: "projects-the-butterfly-effect-of-biotech",
+          section: "News",},{id: "projects-the-butterfly-effect-of-biotech",
           title: 'The Butterfly Effect of Biotech',
           description: "Example of correlation-based trading and statistically backed thesis on innovation hurt by inefficiencies in lack of funding in biotech",
           section: "Projects",handler: () => {
