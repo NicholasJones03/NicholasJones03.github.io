@@ -421,6 +421,11 @@ ninja.data = [{
           description: "Example of valuation metrics and reasoning thought process in a vacuum",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_apple_financial_valuation/";
+            },},{id: "projects-google-financial-valuation-analysis",
+          title: 'Google Financial Valuation Analysis',
+          description: "NPV Model and DCF Financial Analysis",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_google_financial_valuation/";
             },},{
         id: 'social-email',
         title: 'email',
