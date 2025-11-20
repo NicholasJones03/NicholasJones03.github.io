@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Analysis Examples
+title: Models and Analysis
 permalink: /projects/
-description: Models and Analysis
+description: Models and Analysis Examples
 nav: true
 nav_order: 1
 display_categories: Examples
