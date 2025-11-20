@@ -4,9 +4,9 @@ title: Google Financial Valuation Analysis
 description: NPV Model and DCF Financial Analysis
 img: 
 importance: 5
-category: work
+category: Examples
 ---
 
-Detailed NPV modeling and DCF analysis for Google Inc., showcasing quantitative valuation techniques.
+Example of DCF modeling for Google Inc. and pairs trading (pairs trade: AAPL) Q1 25
 
 [View Analysis PDF]({{ site.baseurl }}/assets/GOOGL%20NPV%20Model%20Public.pdf)
