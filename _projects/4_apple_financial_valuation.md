@@ -3,7 +3,7 @@ layout: page
 title: Apple Financial Valuation Analysis
 description: Example of valuation metrics and reasoning thought process in a vacuum
 img: 
-importance: 4
+importance: 3
 category: Examples
 ---
 
