@@ -406,6 +406,11 @@ ninja.data = [{
           description: "Example of correlation-based trading and statistically backed thesis on innovation hurt by inefficiencies in lack of funding in biotech",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_research_seminar_butterfly/";
+            },},{id: "projects-butterfly-effect-of-biotech-final-presentation",
+          title: 'Butterfly Effect of Biotech - Final Presentation',
+          description: "The final draft of the Research Seminar in Economics and Finance presentation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_final_presentation_butterfly/";
             },},{
         id: 'social-email',
         title: 'email',
