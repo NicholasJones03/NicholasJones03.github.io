@@ -6,7 +6,6 @@ img:
 importance: 2
 category: Examples
 ---
-
 Comprehensive overview of data science applications in biotech, including predictive modeling and financial analysis frameworks.
 
 [View Presentation]({{ site.baseurl }}/assets/Using%20Data%20Science%20Modeling%20in%20Biotech.pptx)
