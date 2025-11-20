@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-butterfly-effect-of-biotech",
+          title: "Butterfly Effect of Biotech",
+          description: "The Butterfly Effect of Biotech: How Innovation that is Centered Around Improving and Saving Life Maximization Faces a Multifaceted Paradox and Macro Scarcity due to Inefficient Markets",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
+          },
         },{id: "nav-git-hib-repositories",
           title: "Git-Hib Repositories",
           description: "I should be adding to my Github through time. Mainly targeting future MSDS work that I will likely be conducting for the foreseeable future.",
