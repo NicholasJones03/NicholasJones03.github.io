@@ -1,12 +1,12 @@
 ---
 layout: page
 title: CAPR Clinical Trial Extension Analysis
-description: Example of how a company can extend clinical trialing to maintain current valuation
+description: Example of unique clinical timeline
 img: 
-importance: 8
-category: Analysis
+importance: 7
+category: Examples
 ---
 
-Strategic analysis of clinical trial extension strategies used to maintain company valuation during development phases.
+Brief example of a unique clinical timeline...
 
 [View Analysis Spreadsheet]({{ site.baseurl }}/assets/CAPR.xlsx)
