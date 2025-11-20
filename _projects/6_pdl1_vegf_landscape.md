@@ -4,7 +4,7 @@ title: PDL1 and M-Vegf Competitive Analysis
 description: Example of competitive landscape in biotech of new MOA
 img: 
 importance: 6
-category: work
+category: Examples
 ---
 
 Analysis of the competitive landscape for novel mechanisms of action in immunotherapy and angiogenesis inhibition.
