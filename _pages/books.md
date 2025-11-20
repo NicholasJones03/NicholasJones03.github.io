@@ -6,59 +6,57 @@ nav: true
 collection: books
 nav_order: 6
 ---
-> The Intelligent Investor - Benjamin Graham
->______
+> ______The Intelligent Investor - Benjamin Graham
+>
 > 
-> The Snowball: Warren Buffett and the Business of Life - Alice Schroeder
->______
+>______ The Snowball: Warren Buffett and the Business of Life - Alice Schroeder
+>
 > 
-> Common Stocks and Uncommon Profits - Philip A. Fisher
->______
+>______ Common Stocks and Uncommon Profits - Philip A. Fisher
+>
 > 
-> Honorable Mention: Reminiscences of a Stock Operator - Edwin Lefevre
->______
+> ______Honorable Mention: Reminiscences of a Stock Operator - Edwin Lefevre
+>
 > 
-> The Art of War - Tsun Tzu
->______
+> ______The Art of War - Tsun Tzu
+>
 > 
-> Tribe of Mentors - Tim Ferriss
->______
+> ______Tribe of Mentors - Tim Ferriss
+>
 > 
-> Random Walk Down Wall Street - Burton G. Malkiel
->______
+> ______Random Walk Down Wall Street - Burton G. Malkiel
+>
 > 
-> An Introduction to Information Theory - John R. Pierce
->______
+>______ An Introduction to Information Theory - John R. Pierce
+>
 > 
-> Market Wizards - Jack D. Schwager
->______
+> ______Market Wizards - Jack D. Schwager
+>
 > 
-> Doing Data Science - Cathy O'Neil
->______
+>______ Doing Data Science - Cathy O'Neil
+>
 > 
-> Reproducible Research with R and RStudio by Chistopher Gandrud
->______
+>______ Reproducible Research with R and RStudio by Chistopher Gandrud
+>
 > 
-> The Black Swan - Nassim Nicholas Taleb
->______
+>______ The Black Swan - Nassim Nicholas Taleb
+>
 > 
-> Foold by Randomness - Nassim Nicholas Taleb
->______
-______
-> Short-form:
->______
-> DOS for Dummies
->______
+>______ Foold by Randomness - Nassim Nicholas Taleb
+>
+>______ Short-form:
+>
+>______ DOS for Dummies
+>
+> ______ Artificial Intelligence for Dummies
+>
 > 
-> Artificial Intelligence for Dummies
->______
+> ______Data Science for Dummies
+>
 > 
-> Data Science for Dummies
->______
+> ______Statistics for Dummies
+>
 > 
-> Statistics for Dummies
->______
-> 
-> Many Pub-Med, NEJ, STAT, NIH, and academic articles
-> ______
+> ______Many Pub-Med, NEJ, STAT, NIH, and academic articles
+>
 > 
