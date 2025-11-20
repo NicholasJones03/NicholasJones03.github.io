@@ -406,11 +406,6 @@ ninja.data = [{
           description: "Example of correlation-based trading and statistically backed thesis on innovation hurt by inefficiencies in lack of funding in biotech",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_research_seminar_butterfly/";
-            },},{id: "projects-the-butterfly-effect-of-biotech",
-          title: 'The Butterfly Effect of Biotech',
-          description: "Undergrad Capstone Thesis on Innovation and Market Inefficiency",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_butterfly_biotech/";
             },},{id: "projects-employee-attrition-analysis",
           title: 'Employee Attrition Analysis',
           description: "Using Data Science Modeling - SMU Case Study",
