@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About Me
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. 9812 Holdings and SMU MSDS
 
