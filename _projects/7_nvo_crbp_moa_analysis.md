@@ -3,7 +3,8 @@ layout: page
 title: MOA Mapping - Peripheral Viability Analysis
 description: Example of MOA analysis
 img: 
-importance: 5
+importance: false
+
 category: Examples
 ---
 
