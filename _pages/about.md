@@ -27,5 +27,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello. My name is Nicholas Jones. I am a Biotech enthusiast. I have been in Biotech equity evaluation since March, 2024. I also enjoy financial modeling and evaluation of all sectors and I enjoy Data science modeling. I am starting to post to my Git-Hub more, so you should be able to see some of my projects here, as time goes on.
+Hello. My name is Nicholas Jones. I am a Biotech enthusiast and equity evaluator. I also enjoy financial modeling and evaluation of all sectors and I enjoy Data science modeling. I am starting to post to my Git-Hub more, so you should be able to see some of my projects here, as time goes on.
 
