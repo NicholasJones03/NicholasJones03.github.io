@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>NA</p>
+    <p></p>
     <p>5963 Caruth Haven Ln.</p>
     <p>Dallas, Tx</p>
 
