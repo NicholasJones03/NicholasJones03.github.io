@@ -3,7 +3,8 @@ layout: page
 permalink: /books/
 title: Notable Books
 description: 
-nav: true
+nav: false
+
 nav_order: 6
 ---
 
