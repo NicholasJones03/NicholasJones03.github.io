@@ -416,6 +416,11 @@ ninja.data = [{
           description: "Example of the prevalence of Data Science Modeling in Biotech and Biotech Financial Modeling Example",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_data_science_biotech/";
+            },},{id: "projects-apple-financial-valuation-analysis",
+          title: 'Apple Financial Valuation Analysis',
+          description: "Example of valuation metrics and reasoning thought process in a vacuum",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_apple_financial_valuation/";
             },},{
         id: 'social-email',
         title: 'email',
