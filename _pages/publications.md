@@ -13,7 +13,7 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
-<div class="Research Paper">
+<div class="Butterfly Effect of Biotech">
 
 {% bibliography %}
 
