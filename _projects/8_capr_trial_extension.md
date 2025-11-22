@@ -4,7 +4,7 @@ title: CAPR Clinical Trial Extension Analysis
 description: Example of unique clinical timeline
 img: 
 importance: 7
-category: Examples
+category: false
 ---
 
 Brief example of a unique clinical timeline...
