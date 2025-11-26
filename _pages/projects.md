@@ -2,7 +2,7 @@
 layout: page
 title: Models and Analysis
 permalink: /projects/
-description: Models and Analysis Examples/ Conceptualization of Different Analyses
+description: Models and Analysis Examples/ Conceptualization of Different Analyses (Not Investment Advice)
 nav: true
 nav_order: 1
 display_categories: Examples
