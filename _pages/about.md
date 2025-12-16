@@ -27,7 +27,7 @@ My journey into biotech began tragically at 18, when my father lost a two-year b
 
 Today, I'm passionate about MOA research, biological validation, financial modeling, algorithmic and data science modeling, and qualitative and quantiative modeling and analysis of biotech assets and pipelines with a key focus on drug discovery and innovation. Feel free to contact me via my email: nicholas.alexander.jones@outlook.com for personal inquiries or nickjones@smu.edu for academic inquiries. I should be posting more to my github as of: 11/19/25, if it is 6 mths from now and there hasn't been much posted here, my apologies (try one of my contacts.
 
-Nicholas's investment analysis, work, and portfolio management is conducted for 9812 Holdings, LLC.
+Nicholas's investment analysis, work, and portfolio management is conducted for 9812 Holdings, LLC
 ______________________________________________________________________________________
 
 Personal Inquiries: nicholas.alexander.jones@outlook.com, 
