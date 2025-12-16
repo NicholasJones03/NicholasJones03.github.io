@@ -1,0 +1,23 @@
+---
+layout: page
+title: Abalone Age Prediction
+description: MSDS 6306 Project 2 - Predictive modeling competition
+img: assets/img/12.jpg
+importance: 1
+category: data science
+---
+
+## Overview
+Elastic Net regression model to predict abalone age from morphological measurements. Conducted repeated 10-fold cross-validation with MAE as the evaluation metric.
+
+## Technologies
+- R, Caret, Elastic Net, Machine Learning
+- Data preprocessing and feature engineering
+- Cross-validation and hyperparameter tuning
+
+## Results
+Trained elastic net model on abalone dataset with optimal hyperparameters (α = 0.5, λ tuned via CV).
+
+## Links
+- [GitHub Repository](https://github.com/NicholasJones03/Project-2-DDS)
+- [Video Presentation](https://youtu.be/1wURdYMat3I)
