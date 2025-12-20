@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-models-and-analysis",
           title: "Models and Analysis",
-          description: "Models and Analysis Examples/ Conceptualization of Different Analyses",
+          description: "Models and Analysis Examples/ Conceptualization of Different Analyses (Not Investment Advice)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -29,13 +29,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
-          },
-        },{id: "nav-my-virtual-book-shelf",
-          title: "My Virtual Book Shelf",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/books/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -414,21 +407,16 @@ ninja.data = [{
           description: "NPV Model and DCF Financial Analysis",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_google_financial_valuation/";
-            },},{id: "projects-pdl1-and-m-vegf-competitive-analysis",
-          title: 'PDL1 and M-Vegf Competitive Analysis',
-          description: "Example of competitive landscape in biotech of new MOA",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_pdl1_vegf_landscape/";
             },},{id: "projects-moa-mapping-peripheral-viability-analysis",
           title: 'MOA Mapping - Peripheral Viability Analysis',
           description: "Example of MOA analysis",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_nvo_crbp_moa_analysis/";
-            },},{id: "projects-capr-clinical-trial-extension-analysis",
-          title: 'CAPR Clinical Trial Extension Analysis',
-          description: "Example of unique clinical timeline",
+            },},{id: "projects-abalone-age-prediction",
+          title: 'Abalone Age Prediction',
+          description: "MSDS 6306 Project 2 - Predictive modeling competition",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/8_capr_trial_extension/";
+              window.location.href = "/projects/Project2_DDS/";
             },},{
         id: 'social-email',
         title: 'email',
