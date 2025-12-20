@@ -30,8 +30,6 @@ nav_order: 6
 - Statistics for Dummies
 - Many Pub-Med, NEJ, STAT, NIH, and academic articles
 
-{% include books.liquid %}
-
 > 
 > ______Many Pub-Med, NEJ, STAT, NIH, and academic articles
 >
