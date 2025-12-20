@@ -4,7 +4,7 @@ permalink: /books/
 title: Notable Books
 description: 
 nav: false
-
+pagination: true
 nav_order: 6
 ---
 
